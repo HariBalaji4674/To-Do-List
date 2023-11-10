@@ -10,3 +10,4 @@
 04 pm --> Shell Scripting Session 17 (Only Watching)
 06 pm --> Git Interview Questions https://github.com/bregman-arie/devops-exercises/blob/master/topics/git/README.md
 08 pm --> Ansible Session - 17 
+# git add .;git commit -m "Adding New Files" ;git push origin main
