@@ -1,6 +1,6 @@
 
-06 am --> Linux Commands Interview Questions 1 hour
-07 am --> Docker Session - 52
+06 am --> Linux Commands Interview Questions 1 hour (Just 15 Questions)
+07 am --> Docker Session - 52 --> pending 
 09 am --> Brush Bath Meditation BreakFast
 10 am --> Shell Scripting Session 13 
 11 am --> Shell Scripting Session 14
