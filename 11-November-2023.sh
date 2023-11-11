@@ -1,3 +1,4 @@
+### Failed Some Topics ###
 
 06 am --> Linux Commands Interview Questions 1 hour (Just 15 Questions)
 07 am --> Docker Session - 52 --> pending 
